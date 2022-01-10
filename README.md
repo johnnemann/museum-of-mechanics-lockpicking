@@ -8,3 +8,5 @@ The Museum of Mechanics: Lockpicking is a browsable, playable collection of lock
 This diverges from the published version in only one important way: it does not include code or content that I do not have permissions to distribute, including InControl for input, and all of the 3d assets. Instead, the Unity project here will make a 2d application that lets you browse the games on offer through a menu. All of the code for the games is included.
 
 My hope is that this collection of code will be useful for anyone wanting to implement lockpicking minigames in their work, or for people hoping to learn about game development in Unity. I also would love to see bug fixes, new games, and anything else to improve the collection for the community.
+
+A full version of the game, with achievements, leaderboards, non-programmer art, sound, and polish is also available for purchase on Steam: https://store.steampowered.com/app/1735110/Museum_of_Mechanics_Lockpicking/
